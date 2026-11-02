@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+requests
+requests-cache
+torch
+torchvision
+Pillow
+opencv-python
+xgboost
+optuna

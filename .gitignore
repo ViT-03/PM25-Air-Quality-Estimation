@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+*.pyc
+venv/
+.venv/
+data/pm25dataset/
+NewDataset/
+NewResults/
+final_ablation_files/
+cache/
+*.sqlite
